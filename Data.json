@@ -1,0 +1,419 @@
+[ {
+    "id": "1",
+    "author": "Emily Johnson",
+    "title": "Scientists discover new species of butterflies in the Amazon rainforest.",
+    "description": "A team of researchers has identified a previously unknown species of butterflies in the Amazon rainforest, adding to the rich biodiversity of the region.",
+    "url": "https://examplenews.com/scientists-discover-new-butterfly-species",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/butterfly-discovery.jpg",
+    "category": "science",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-28T09:15:00+00:00"
+},
+
+ {
+    "id": "2",
+    "author": "Michael Thompson",
+    "title": "New study shows the benefits of meditation on mental health.",
+    "description": "A recent study conducted by a team of psychologists has found that regular meditation can have significant positive effects on mental health and well-being.",
+    "url": "https://examplenews.com/study-benefits-meditation-mental-health",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/meditation-mental-health.jpg",
+    "category": "health",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-27T14:30:00+00:00"
+},
+
+ {
+    "id": "3",
+    "author": "Sarah Collins",
+    "title": "SpaceX successfully launches and lands reusable rocket.",
+    "description": "SpaceX, the private space exploration company founded by Elon Musk, successfully launched and landed its reusable rocket, marking a significant milestone in the quest for space travel cost reduction.",
+    "url": "https://examplenews.com/spacex-successful-rocket-launch-landing",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/spacex-rocket-launch.jpg",
+    "category": "technology",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-26T18:45:00+00:00"
+},
+
+ {
+    "id":"4",
+    "author": "Daniel Lee",
+    "title": "New archaeological discovery sheds light on ancient civilization.",
+    "description": "Archaeologists have uncovered a previously unknown city that provides valuable insights into the daily life and culture of an ancient civilization that existed thousands of years ago.",
+    "url": "https://examplenews.com/new-archaeological-discovery-ancient-civilization",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/archaeological-discovery.jpg",
+    "category": "history",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-25T11:20:00+00:00"
+},
+
+ {
+    "id": "5",
+    "author": "Michelle Rodriguez",
+    "title": "Major breakthrough in renewable energy technology announced.",
+    "description": "Scientists have developed a groundbreaking technology that significantly improves the efficiency and affordability of renewable energy sources, bringing us closer to a sustainable future.",
+    "url": "https://examplenews.com/breakthrough-renewable-energy-technology",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/renewable-energy-breakthrough.jpg",
+    "category": "science",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-24T16:05:00+00:00"
+},
+
+ {
+    "id": "6",
+    "author": "David Wilson",
+    "title": "New research suggests a link between diet and mental health.",
+    "description": "A recent study indicates that there may be a correlation between a healthy diet and improved mental health, highlighting the importance of nutrition in overall well-being.",
+    "url": "https://examplenews.com/link-between-diet-mental-health",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/diet-mental-health.jpg",
+    "category": "health",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-23T09:40:00+00:00"
+},
+
+ {
+    "id": "7",
+    "author": "Laura Martinez",
+    "title": "Newly discovered species of bird surprises ornithologists.",
+    "description": "Ornithologists studying bird populations in a remote region have stumbled upon a previously unknown species of bird, adding to the diversity of avian species on our planet.",
+    "url": "https://examplenews.com/newly-discovered-species-bird-ornithologists",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/new-bird-species.jpg",
+    "category": "science",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-22T14:15:00+00:00"
+},
+
+ {
+    "id": "8",
+    "author": "John Davis",
+    "title": "Robotics competition showcases innovative designs and talent.",
+    "description": "The annual international robotics competition concluded with teams from around the world presenting their innovative robot designs and competing in various challenging tasks.",
+    "url": "https://examplenews.com/robotics-competition-innovative-designs-talent",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/robotics-competition.jpg",
+    "category": "technology",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-21T17:30:00+00:00"
+},
+
+ {
+    "id": "9",
+    "author": "Jessica Collins",
+    "title": "New archaeological find reveals ancient trading routes.",
+    "description": "An archaeological discovery of ancient artifacts has provided evidence of extensive trading networks that connected distant civilizations in the past.",
+    "url": "https://examplenews.com/archaeological-find-ancient-trading-routes",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/archaeological-find.jpg",
+    "category": "history",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-20T11:50:00+00:00"
+},
+
+ {
+    "id": "10",
+    "author": "Eric Thompson",
+    "title": "Breakthrough in cancer research offers hope for new treatments.",
+    "description": "Scientists have made a significant breakthrough in cancer research, uncovering a potential target for novel therapies that could revolutionize the treatment of various types of cancer.",
+    "url": "https://examplenews.com/breakthrough-cancer-research-new-treatments",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/cancer-research-breakthrough.jpg",
+    "category": "health",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-19T14:25:00+00:00"
+},
+
+ {
+    "id": "11",
+    "author": "Sophia Rodriguez",
+    "title": "Newly discovered ancient ruins offer insights into lost civilization.",
+    "description": "Archaeologists have unearthed a complex network of ancient ruins, providing valuable clues about a long-lost civilization that once thrived in the region.",
+    "url": "https://examplenews.com/newly-discovered-ancient-ruins-lost-civilization",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/ancient-ruins-discovery.jpg",
+    "category": "history",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-18T18:10:00+00:00"
+},
+
+ {
+    "id": "12",
+    "author": "Ryan Adams",
+    "title": "Tech giant announces breakthrough in artificial intelligence.",
+    "description": "A major tech company has revealed a significant breakthrough in artificial intelligence technology, paving the way for more advanced applications in various industries.",
+    "url": "https://examplenews.com/tech-giant-breakthrough-artificial-intelligence",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/ai-breakthrough.jpg",
+    "category": "technology",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-17T09:45:00+00:00"
+},
+
+ {
+    "id": "13",
+    "author": "Emma Turner",
+    "title": "Rare species of marine life discovered in the depths of the ocean.",
+    "description": "Marine biologists exploring the deep sea have encountered a previously unknown species of marine life, highlighting the mysteries that still exist in our oceans.",
+    "url": "https://examplenews.com/rare-species-marine-life-discovery",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/marine-life-discovery.jpg",
+    "category": "science",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-16T16:20:00+00:00"
+},
+
+ {
+    "id": "14",
+    "author": "Matthew Clark",
+    "title": "New breakthrough in renewable energy storage technology.",
+    "description": "Researchers have developed a groundbreaking method for storing renewable energy, addressing one of the biggest challenges in transitioning to a cleaner and greener future.",
+    "url": "https://examplenews.com/breakthrough-renewable-energy-storage-technology",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/energy-storage-breakthrough.jpg",
+    "category": "science",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-15T11:55:00+00:00"
+},
+
+ {
+    "id": "15",
+    "author": "Olivia Wilson",
+    "title": "Scientists discover new species of plants in the rainforests of South America.",
+    "description": "A team of botanists has identified several previously unknown species of plants in the lush rainforests of South America, expanding our knowledge of biodiversity.",
+    "url": "https://examplenews.com/scientists-discover-new-plant-species-south-america",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/plant-discovery.jpg",
+    "category": "science",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-14T15:40:00+00:00"
+},
+
+ {
+    "id": "16",
+    "author": "Christopher Green",
+    "title": "New study reveals the impact of climate change on wildlife populations.",
+    "description": "A comprehensive study has shed light on the devastating effects of climate change on wildlife populations, emphasizing the urgent need for conservation efforts.",
+    "url": "https://examplenews.com/study-impact-climate-change-wildlife",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/climate-change-wildlife.jpg",
+    "category": "environment",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-13T08:15:00+00:00"
+},
+
+ {
+    "id": "17",
+    "author": "Grace Martinez",
+    "title": "New technology enables real-time translation of ancient texts.",
+    "description": "Linguists have developed a cutting-edge technology that allows for the real-time translation of ancient texts, opening up new possibilities for understanding ancient civilizations.",
+    "url": "https://examplenews.com/technology-real-time-translation-ancient-texts",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/translation-technology.jpg",
+    "category": "history",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-12T13:30:00+00:00"
+},
+
+ {
+    "id": "18",
+    "author": "William Turner",
+    "title": "Breakthrough in gene editing technology offers new possibilities in healthcare.",
+    "description": "Scientists have achieved a significant breakthrough in gene editing technology, opening up new avenues for treating genetic disorders and advancing personalized medicine.",
+    "url": "https://examplenews.com/breakthrough-gene-editing-technology-healthcare",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/gene-editing-breakthrough.jpg",
+    "category": "health",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-11T16:55:00+00:00"
+},
+
+ {
+    "id": "19",
+    "author": "Ethan Adams",
+    "title": "New archaeological discovery rewrites ancient history.",
+    "description": "Archaeologists have made a groundbreaking discovery that challenges existing theories about ancient civilizations and reshapes our understanding of the past.",
+    "url": "https://examplenews.com/archaeological-discovery-rewrites-ancient-history",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/archaeological-rewrite.jpg",
+    "category": "history",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-10T10:20:00+00:00"
+},
+
+ {
+    "id": "20",
+    "author": "Natalie Collins",
+    "title": "Space exploration mission uncovers new insights into the formation of galaxies.",
+    "description": "A space exploration mission has provided scientists with unprecedented data about the formation of galaxies, shedding light on the mysteries of the universe.",
+    "url": "https://examplenews.com/space-exploration-insights-formation-galaxies",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/space-exploration-insights.jpg",
+    "category": "science",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-09T14:45:00+00:00"
+},
+
+ {
+    "id": "21",
+    "author": "Ava Hill",
+    "title": "New breakthrough in renewable materials leads to eco-friendly innovations.",
+    "description": "Researchers have made a significant breakthrough in the development of renewable materials, paving the way for eco-friendly innovations in various industries.",
+    "url": "https://examplenews.com/breakthrough-renewable-materials-eco-friendly-innovations",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/renewable-materials-breakthrough.jpg",
+    "category": "environment",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-08T17:10:00+00:00"
+},
+
+ {
+    "id": "22",
+    "author": "Michael Murphy",
+    "title": "Scientists discover potential treatment for Alzheimer's disease.",
+    "description": "A team of scientists has identified a promising new compound that shows potential as a treatment for Alzheimer's disease, raising hopes for better therapies in the future.",
+    "url": "https://examplenews.com/potential-treatment-alzheimers-disease",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/alzheimers-treatment.jpg",
+    "category": "health",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-07T10:35:00+00:00"
+},
+
+ {
+    "id": "23",
+    "author": "Sophie Roberts",
+    "title": "New study reveals the impact of deforestation on biodiversity.",
+    "description": "A comprehensive study has highlighted the devastating effects of deforestation on global biodiversity, underscoring the urgent need for conservation and sustainable land management.",
+    "url": "https://examplenews.com/study-impact-deforestation-biodiversity",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/deforestation-impact.jpg",
+    "category": "environment",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-06T14:00:00+00:00"
+},
+
+{
+    "id": "24",
+    "author": "Jacob Turner",
+    "title": "New technology enables faster and more accurate weather predictions.",
+    "description": "Meteorologists have developed a revolutionary new technology that enhances the speed and accuracy of weather predictions, improving our ability to forecast severe weather events.",
+    "url": "https://examplenews.com/technology-faster-accurate-weather-predictions",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/weather-predictions-technology.jpg",
+    "category": "science",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-05T09:25:00+00:00"
+},
+
+ {
+    "id": "25",
+    "author": "Grace Thompson",
+    "title": "New breakthrough in clean water technology addresses global water scarcity.",
+    "description": "Researchers have achieved a significant breakthrough in clean water technology, offering a promising solution to the global water scarcity crisis and improving access to safe drinking water.",
+    "url": "https://examplenews.com/breakthrough-clean-water-technology-global-water-scarcity",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/clean-water-breakthrough.jpg",
+    "category": "environment",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-04T12:50:00+00:00"
+},
+
+ {
+    "id": "26",
+    "author": "Sophia Johnson",
+    "title": "New study reveals the health benefits of a plant-based diet.",
+    "description": "A comprehensive study has highlighted the numerous health benefits of a plant-based diet, including reduced risk of chronic diseases and improved overall well-being.",
+    "url": "https://examplenews.com/study-health-benefits-plant-based-diet",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/plant-based-diet-benefits.jpg",
+    "category": "health",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-03T16:15:00+00:00"
+},
+
+ {
+    "id": "27",
+    "author": "Lucas Allen",
+    "title": "New breakthrough in quantum computing promises faster and more powerful computers.",
+    "description": "Scientists have made a significant breakthrough in the field of quantum computing, paving the way for faster and more powerful computers with the potential to revolutionize various industries.",
+    "url": "https://examplenews.com/breakthrough-quantum-computing-faster-powerful",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/quantum-computing-breakthrough.jpg",
+    "category": "technology",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-02T19:40:00+00:00"
+},
+
+ {
+    "id": "28",
+    "author": "Mia Robinson",
+    "title": "New archaeological discovery sheds light on ancient trade routes.",
+    "description": "Archaeologists have uncovered an ancient trade route, providing valuable insights into the interconnectedness of ancient civilizations and the exchange of goods and ideas.",
+    "url": "https://examplenews.com/archaeological-discovery-ancient-trade-routes",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/archaeological-trade-routes.jpg",
+    "category": "history",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-06-01T10:05:00+00:00"
+},
+
+ {
+    "id": "29",
+    "author": "Noah Mitchell",
+    "title": "New technology enables remote medical consultations and diagnoses.",
+    "description": "A cutting-edge technology has revolutionized remote medical consultations and diagnoses, allowing patients to receive expert medicaladvice and treatment without leaving their homes.",
+    "url": "https://examplenews.com/technology-remote-medical-consultations-diagnoses",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/remote-medical-technology.jpg",
+    "category": "health",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-05-31T13:30:00+00:00"
+},
+
+ {
+    "id": "30",
+    "author": "Olivia Campbell",
+    "title": "New study reveals the impact of air pollution on public health.",
+    "description": "A comprehensive study has highlighted the detrimental effects of air pollution on public health, underscoring the urgent need for stricter regulations and cleaner air initiatives.",
+    "url": "https://examplenews.com/study-impact-air-pollution-public-health",
+    "source": "Example News",
+    "image": "https://examplenews.com/images/air-pollution-impact.jpg",
+    "category": "health",
+    "language": "en",
+    "country": "us",
+    "published_at": "2023-05-30T16:55:00+00:00"
+}]

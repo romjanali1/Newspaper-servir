@@ -1,0 +1,24 @@
+[ {
+    "id": "1",
+    "category": "science" 
+},
+
+ {
+    "id": "2", 
+    "category": "health"  
+},
+
+ {
+    "id": "3",
+    "category": "technology"  
+},
+
+ {
+    "id":"4",
+    "category": "history" 
+},
+
+ {
+    "id": "16",
+    "category": "environment" 
+}]
